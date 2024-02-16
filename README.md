@@ -1,3 +1,3 @@
-# Building Modern Python Applications on AWS
+# AWS Courses
 
-This specialization from Amazon Web Services (AWS) explores how to build an API driven application using Amazon API Gateway for serverless API hosting, AWS Lambda for serverless compute, and Amazon Cognito for serverless authentication.
+Amazon Web Services (AWS) is the world's most comprehensive and broadly adopted cloud, offering over 200 fully featured services from data centers globally.

@@ -49,4 +49,4 @@
 
 - [Video - Course Wrap Up](https://www.coursera.org/learn/building-modern-python-applications-on-aws/lecture/W9rJn/course-wrap-up)
 
-- [Reading - Post-Course Survey](https://www.coursera.org/learn/building-modern-python-applications-on-aws/ungradedWidget/AHmYf/post-course-survey)
+- [Reading - Post-Course Survey](https://amazonmr.au1.qualtrics.com/jfe/form/SV_emJ9TIqJ3Rr3I8t?DTP=Coursera&Course=BMAPython&user_id=%279c4323a7f2bb96a16cc22dc11ad187072a08049e%27&DTPSurveyBlock=Post)
